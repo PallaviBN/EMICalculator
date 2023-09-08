@@ -1,0 +1,22 @@
+{
+  "name": "emicalculator",
+  "version": "1.0.0",
+  "description": "emi calculator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html"
+  },
+  "keywords": [
+    "emi-calculator"
+  ],
+  "author": "Pallavi",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
